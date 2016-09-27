@@ -15,7 +15,6 @@ const SCRAPE_PAGE = OPTIONS.scrape_page || 'http://datawactest.com/AlexandraInst
 
 var server = restify.createServer({
   name: 'rest-container',
-
 });
 
 server.get('containers', function(req, res, next) {

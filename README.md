@@ -20,6 +20,8 @@ To start the node server, simply run
 node index.js
 ```
 
+By default the server is running on port 3000.
+
 To use a custom port number for running the server use -p:
 
 ```bash
