@@ -34,4 +34,4 @@ To test the server, run curl:
 
 ```bash
 curl 'http://localhost:3000/containers'
-```curl
+```
