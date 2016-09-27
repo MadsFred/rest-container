@@ -1,6 +1,5 @@
 'use strict'
 var restify         = require('restify');
-var child_process   = require('child_process');
 var commandLineArgs = require('command-line-args');
 var scraper         = require('table-scraper');
 
